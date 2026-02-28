@@ -79,11 +79,11 @@ const prathmesh = {
 
 <div align="center">
 
-![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh-pattewar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppattewar17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-pattewar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppattewar17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prathmesh-pattewar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=ppattewar17&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=FFFFFF)
 
 </div>
 
@@ -119,7 +119,7 @@ $ installing...
 ⭐ Found something useful? Star the repo — it keeps me motivated!
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=prathmesh-pattewar&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ppattewar17&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
