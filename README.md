@@ -79,11 +79,9 @@ const prathmesh = {
 
 <div align="center">
 
-![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppattewar17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppattewar17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ppattewar17&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=FFFFFF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ppattewar17&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6C37&area=true&hide_border=true)
 
 </div>
 
